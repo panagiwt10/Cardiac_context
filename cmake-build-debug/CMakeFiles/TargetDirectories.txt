@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/ Cardiovascular_Risk_Score_Calculator/cmake-build-debug/CMakeFiles/_Cardiovascular_Risk_Score_Calculator.dir
+C:/Users/User/CLionProjects/ Cardiovascular_Risk_Score_Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/ Cardiovascular_Risk_Score_Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
